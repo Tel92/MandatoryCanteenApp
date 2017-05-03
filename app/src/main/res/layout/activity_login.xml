@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.tomas.mandatorycanteenapp.LoginActivity">
+
+    <EditText
+        android:id="@+id/emailView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:id="@+id/login_passwordView"/>
+
+    <Button
+        android:id="@+id/login_loginView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:onClick="LoginAct"/>
+
+    <Button
+        android:id="@+id/login_createUserView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create new user"
+        android:onClick="CreateUser"/>
+
+</LinearLayout>

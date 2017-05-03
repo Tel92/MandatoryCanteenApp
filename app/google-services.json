@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "13774723114",
+    "firebase_url": "https://mandatorycanteenapp-60740.firebaseio.com",
+    "project_id": "mandatorycanteenapp-60740",
+    "storage_bucket": "mandatorycanteenapp-60740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13774723114:android:7fd2eaae83bf6b6f",
+        "android_client_info": {
+          "package_name": "com.example.tomas.mandatorycanteenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13774723114-3o8p2puucbnann4rvvh38k583ob6p4eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tomas.mandatorycanteenapp",
+            "certificate_hash": "1bbb2c91ba77c1430c4e2d5d24fc0788b3de5796"
+          }
+        },
+        {
+          "client_id": "13774723114-dl78js4uk8735dsinsmqo9ge5j37psss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5P46VA4qDCPmJQGrG-0gmxlIAaKZNS3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13774723114-dl78js4uk8735dsinsmqo9ge5j37psss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
